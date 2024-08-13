@@ -15,7 +15,7 @@ $ python preprocessing.py
 
 #### Implementation of the NN and training
 
-![teaser](architecture.png)
+![teaser](model_architecture.PNG)
 
 -The neural network is implemented as specified in the paper with few assumpitions being made at parts where information was not specified in the paper. 
 
