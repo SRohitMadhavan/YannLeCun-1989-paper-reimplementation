@@ -1,7 +1,7 @@
 
 # Reimplementation of LeCun's 1989 paper
 
--The code in the repository aims to reimplement the iconic [Backpropagation Applied to Handwritten Zip COde Recognition] (http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf) research paper published by Yann LeCun et al. in 1989.
+-The code in the repository aims to reimplement the iconic [Backpropagation Applied to Handwritten Zip COde Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf) research paper published by Yann LeCun et al. in 1989.
 
 #### Dataset
 
